@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I love playing the guitar and exploring new technologies!**
+- ⚡ Fun fact: **I love cooking and exploring new technologies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;Arnav Karnik
 </p>
 
 
