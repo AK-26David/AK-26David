@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
