@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Advanced Algorithms and Data Structures**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Research Projects**
 
 - 📫 How to reach me: **arnav.karnik@gmail.com**
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 [![Arnav's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AK-26David&theme=radical)](https://github.com/AK-26David)
 
 ## 📈 Contribution Graph
+[![Arnav's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AK-26David&bg_color=1F222E&color=F8D866&line=F85D7F&point=E15D9F&hide_border=true&theme=react-dark)](https://github.com/AK-26David)
 
-![Arnav's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AK-26David&bg_color=1F222E&color=F8D866&line=F85D7F&point=E15D9F&hide_border=true&theme=react-dark)
 
 
