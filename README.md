@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I love cooking and exploring new technologies!**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
