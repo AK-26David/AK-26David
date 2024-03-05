@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Research Projects**
 
+- 🤔 I’m looking for help with **Linux, Git, PL/SQL, SQL**
+
+- 💬 Ask me about **anything related to programming or technology!**
+
 - 📫 How to reach me: **arnav.karnik@gmail.com**
 
 - 😄 Pronouns: **He/Him**
@@ -35,8 +39,6 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;Arnav Karnik
 </p>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -47,6 +49,18 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
@@ -66,7 +80,7 @@ Here are some ideas to get you started:
 [![Arnav's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AK-26David&theme=radical)](https://github.com/AK-26David)
 
 ## 📈 Contribution Graph
-[![Arnav's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AK-26David&bg_color=1F222E&color=F8D866&line=F85D7F&point=E15D9F&hide_border=true&theme=react-dark)](https://github.com/AK-26David)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
 
 
 
