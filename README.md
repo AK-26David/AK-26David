@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Machine Learning and Quantum Computing**
 
-- 🌱 I’m currently learning **Advanced Algorithms and Artificial Intelligence**
+- 🌱 I’m currently learning **basics of Machine Learning for future implementation.**
 
 - 👯 I’m looking to collaborate on **Research Projects**
 
-- 🤔 I’m looking for help with **Linux, Git, PL/SQL, SQL**
+- 🤔 I’m looking for help with **Linux, Git, Deep Learning and Machine Learning Project implementations.**
+
+- 😣 I want to improve my proficiency in **Python.**
 
 - 💬 Ask me about **anything related to programming or technology!**
 
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact: **I love cooking and exploring new technologies!**
+
 
   
 <h3 align="left">Connect with me:</h3>
