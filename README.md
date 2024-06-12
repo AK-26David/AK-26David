@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything related to programming or technology!**
 
-- 📫 How to reach me: **arnav.karnik@gmail.com**
+- 📫 How to reach me: **arnav.mitmpl2022@learner.manipal.edu**
 
 - 😄 Pronouns: **He/Him**
 
