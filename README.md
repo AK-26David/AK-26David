@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Arnav Karnik</h1>
 <h3 align="center">Third Year Computer Science student at MIT Manipal.</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning and Reinforcement Learning.**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, and Data Structures and algorithms.**
 
 - 🌱 I’m currently learning **basics of Machine Learning for future implementation.**
 
-- 👯 I’m looking to collaborate on **Research Projects**
+- 👯 I’m looking to collaborate on **Research Projects related to Generative AI**
 
-- 🤔 I’m looking for help with **Linux, Git, Deep Learning and Machine Learning Project implementations.**
+- 🤔 I’m looking for help with **Web scraping and Data Science**
 
 - 😣 I want to improve my proficiency in **Python.**
 
