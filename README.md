@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, and Data Structures and algorithms.**
 
-- 🌱 I’m currently learning **basics of Machine Learning for future implementation.**
+- 🌱 I’m currently learning **basics of Machine Learning for future implementation along with web scrapping for my internship.**
 
 - 👯 I’m looking to collaborate on **Research Projects related to Generative AI**
 
