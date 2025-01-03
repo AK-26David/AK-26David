@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, and Computer Vision.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithims for internships.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Research Projects related to Computer Vision and Deep Learning.**
 
