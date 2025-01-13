@@ -70,6 +70,12 @@ Here are some ideas to get you started:
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache-kafka.svg" alt="kafka" width="40" height="40"/>
   </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/bs4_logo.svg" alt="beautiful soup" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
   </a>
@@ -95,4 +101,3 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
-
