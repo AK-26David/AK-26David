@@ -90,5 +90,3 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
-
-
