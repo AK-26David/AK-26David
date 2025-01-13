@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I love cooking and exploring new technologies!**
 
 
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
@@ -52,6 +51,15 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
@@ -80,7 +88,7 @@ Here are some ideas to get you started:
 [![Arnav's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AK-26David&theme=radical)](https://github.com/AK-26David)
 
 ## 📈 Contribution Graph
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
 
 
