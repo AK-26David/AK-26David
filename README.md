@@ -83,10 +83,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-26David&layout=compact&theme=radical)](https://github.com/AK-26David)
 
-## 📝 Contributions
-
-[![Arnav's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AK-26David&theme=radical)](https://github.com/AK-26David)
-
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
