@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Research Projects related to Computer Vision and Deep Learning.**
 
-- 🤔 I’m looking for help with **Image Processing.**
+- 🤔 I’m looking for help with **Augmemnted Reality and Unity.**
 
 - 😣 I want to improve my proficiency in **Python.**
 
