@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Arnav Karnik</h1>
-<h3 align="center">Third Year Computer Science student at MIT Manipal.</h3>
+<h3 align="center">Junior Computer Science student at MIT Manipal.</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, and Computer Vision.**
 
