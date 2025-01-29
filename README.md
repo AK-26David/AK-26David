@@ -69,6 +69,7 @@
 
 ### 🔹 Tools & Frameworks
 <p align="center">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
