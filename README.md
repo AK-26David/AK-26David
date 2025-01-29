@@ -1,103 +1,93 @@
-<!--
-**AK-26David/AK-26David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Arnav Karnik</h1>
-<h3 align="center">Junior Computer Science student at MIT Manipal.</h3>
+<h3 align="center">🚀 Junior Computer Science Student | AI/ML Enthusiast | Researcher 🚀</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, and Computer Vision.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C62F&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+in+AI+for+Biotech%2C+Agri%2C+and+Healthcare;Passionate+about+Building+Impactful+Solutions;Always+learning+%F0%9F%92%BB%F0%9F%94%A5" alt="Typing SVG">
+</p>
 
-- 🌱 I’m currently learning **Deep Learning.**
+---
 
-- 👯 I’m looking to collaborate on **Research Projects related to Computer Vision and Deep Learning.**
+## 🔥 About Me
 
-- 🤔 I’m looking for help with **Augmented Reality and Unity.**
+- 🚀 Currently exploring **Machine Learning, Deep Learning, and Computer Vision**
+- 📚 Learning **Deep Learning & Augmented Reality**
+- 🎯 Looking to collaborate on **Research Projects in Computer Vision & Deep Learning**
+- 💡 Seeking help with **Augmented Reality & Unity**
+- 🏆 Improving my **Python skills**
+- 💬 Ask me about **Programming, AI/ML, and Tech Trends**
+- 📧 Reach me at **arnav.mitmpl2022@learner.manipal.edu**
+- 🎨 Fun fact: **I love cooking and experimenting with new technologies!** 🍳💻
 
-- 😣 I want to improve my proficiency in **Python.**
+---
 
-- 💬 Ask me about **anything related to programming or technology!**
+## 🌐 Connect with Me
 
-- 📫 How to reach me: **arnav.mitmpl2022@learner.manipal.edu**
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun fact: **I love cooking and exploring new technologies!**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnav-karnik-b2441922b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache-kafka.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/bs4_logo.svg" alt="beautiful soup" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
+### 🔹 Web & Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>
+
+### 🔹 Machine Learning & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
+
+### 🔹 Databases & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
+
+### 🔹 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AK-26David&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats">
+</p>
 
-[![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK-26David&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/AK-26David)
+## 🚀 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-26David&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-## 📈 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-26David&layout=compact&theme=radical)](https://github.com/AK-26David)
+---
 
 ## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=github-dark" alt="GitHub Activity Graph">
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AK-26David&theme=react)
+---
+
+🔥 **"Start where you are. Use what you have. Do what you can.” – Arthur Ashe** 🚀  
+🔗 *Connect with me on LinkedIn and let's collaborate!*  
