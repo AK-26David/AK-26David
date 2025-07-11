@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Karnik</h1>
-<h3 align="center">🚀 Senior Computer Science Student | AI/ML Enthusiast | Researcher 🚀</h3>
+<h3 align="center">🚀 Senior Computer Science Student | AI Researcher 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C62F&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+in+AI+for+Biotech%2C+Agri%2C+and+Healthcare;Passionate+about+Building+Impactful+Solutions;Always+learning+%F0%9F%92%BB%F0%9F%94%A5" alt="Typing SVG">
