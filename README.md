@@ -10,9 +10,9 @@
 ## 🔥 About Me
 
 - 🚀 Currently exploring **Machine Learning, Deep Learning, and Computer Vision**
-- 📚 Learning **Deep Learning & Augmented Reality**
+- 📚 Learning **Reinforcement Learning**
 - 🎯 Looking to collaborate on **Research Projects in Computer Vision & Deep Learning**
-- 💡 Seeking help with **Augmented Reality & Unity**
+- 💡 Seeking help with **Reinforcement Learning**
 - 🏆 Improving my **Python skills**
 - 💬 Ask me about **Programming, AI/ML, and Tech Trends**
 - 📧 Reach me at **arnav.mitmpl2022@learner.manipal.edu**
