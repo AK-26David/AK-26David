@@ -80,11 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK-26David&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats">
-</p>
-
 ## 🚀 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-26David&layout=compact&theme=radical" alt="Top Languages">
