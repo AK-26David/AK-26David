@@ -15,7 +15,7 @@
 - 💡 Seeking help with **Reinforcement Learning**
 - 🏆 Improving my **Python skills**
 - 💬 Ask me about **Programming, AI/ML, and Tech Trends**
-- 📧 Reach me at **arnav.mitmpl2022@learner.manipal.edu**
+- 📧 Reach me at **karnik.ar@northeastern.edu**
 - 🎨 Fun fact: **I love cooking and experimenting with new technologies!** 🍳💻
 
 ---
