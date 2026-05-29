@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MS in Artificial Intelligence @ Northeastern University 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C62F&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+%7C+Computer+Vision+%7C+Deep+Learning;Reinforcement+Learning+%7C+Multimodal+AI+%7C+NLP;Building+Intelligent+and+Real-World+AI+Systems;Passionate+about+Research%2C+Innovation%2C+and+Deployment+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C62F&center=true&vCenter=true&width=1050&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+NLP+%7C+Multimodal+AI;Building+Scalable%2C+Reliable%2C+and+Production-Ready+Systems;From+Model+Development+to+Deployment+and+Optimization" alt="Typing SVG">
 </p>
 
 ---
